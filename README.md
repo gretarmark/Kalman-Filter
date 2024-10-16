@@ -4,4 +4,4 @@ The Kalman Filter is an optimal recursive algorithm used to estimate the state o
 
 In this code, I have implemented both static and dynamic Kalman Filters, with the physical model being a well-known 4-tank water system.
 
-![Kalman Filter](images/KalmanFilterPlot.png)
+![Kalman Filter](KalmanFilterPlot.png)
