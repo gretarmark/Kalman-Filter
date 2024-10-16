@@ -6,4 +6,4 @@ In this code, I have implemented both static and dynamic Kalman Filters, with th
 
 <!-- ![Kalman Filter](KalmanFilterPlot.png) -->
 
-<img src="KalmanFilterPlot.png" alt="Kalman Filter" style="width: 60%; height: auto;" />
+<img src="KalmanFilterPlot.png" alt="Kalman Filter: The Y-axis represents magnitude, while the X-axis represents time." style="width: 40%; height: auto;" />
